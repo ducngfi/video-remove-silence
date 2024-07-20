@@ -21,7 +21,7 @@ def get_all_video_info(video_file):
     return video_info
 
 # Example usage
-video_file = '/Users/duc/Desktop/Marketing Insider/Đổi tên kênh/20240718_C0925.MP4'
+video_file = 'video.mp4'
 video_info = get_all_video_info(video_file)
 
 # Print the metadata in a readable format
